@@ -125,5 +125,14 @@ body {
         height: 20px;
     }
 
+    #collapsable-nav a{
+        font-size: 1.2em;
+    }
+
+    #collapsable-nav a span {
+        font-size: 1em;
+        padding-right: 5px;
+    }
+
 
 }
