@@ -6,3 +6,5 @@ You can see live website [here](https://sunnyio.github.io/Restaurant-Website/)
 2. CSS
 3. Bootstrap
 4. JQuery
+
+Credit :- This project is part of a course work at Coursera.
